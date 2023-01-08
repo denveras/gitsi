@@ -1,0 +1,8 @@
+name: Demo rabochiy potok
+on: workflow_dispatch
+jobs:
+  print_demo:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: print na console
+        run: echo Privet GH deystvie
