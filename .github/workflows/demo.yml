@@ -8,5 +8,5 @@ jobs:
         run: echo Privet GH deystvie
       - name: print dva
         run: |
-          echo: raz dva tri
-          echo: chetire pjat
+          echo raz dva tri
+          echo chetire pjat
