@@ -6,3 +6,7 @@ jobs:
     steps: 
       - name: print na console
         run: echo Privet GH deystvie
+      - name: print dva
+        run: |
+          echo: raz dva tri
+          echo: chetire pjat
